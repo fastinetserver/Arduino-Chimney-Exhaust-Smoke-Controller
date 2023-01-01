@@ -1,0 +1,17 @@
+//
+// Created by mona on 12.10.22.
+//
+
+#ifndef CHIMNEY_EXHAUST_SMOKE_CONTROLLER_MOTOR_MODES_H
+#define CHIMNEY_EXHAUST_SMOKE_CONTROLLER_MOTOR_MODES_H
+
+String MOTOR_MODE_NAMES[3] = { "MANUAL", "AUTO", "CLEAN" };
+//String MOTOR_MODE_NAMES[3] = { "M", "A", "C" };
+
+const byte MOTOR_MODE_MANUAL = 0;
+const byte MOTOR_MODE_AUTO = 1;
+const byte MOTOR_MODE_CLEAN = 2;
+
+byte cur_motor_mode = MOTOR_MODE_AUTO;
+
+#endif //CHIMNEY_EXHAUST_SMOKE_CONTROLLER_MOTOR_MODES_H
