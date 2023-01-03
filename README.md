@@ -3,6 +3,9 @@
 ## Overview
 Chimney_Exhaust_Smoke_Controller controles the flow of smoke going through a chimney and therefore adjusts temperature of the water in your Heating System.
 
+## Video on How this controller works:
+https://youtu.be/SrsaVTurrf4
+
 ## How to use:
 1) Turn on Chimney Exhaust Smoke Controller (CESC);
 2) Put some wood into your stove;
